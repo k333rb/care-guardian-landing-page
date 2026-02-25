@@ -15,7 +15,7 @@ const Edge = () => {
       title: "Localized for the Philippines",
     },
     {
-      iconImage: "/src/assets/icons/watch.png",
+      iconImage: "/icons/watch.png",
       title: "Wearable-Free Monitoring",
     },
     {

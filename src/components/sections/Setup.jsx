@@ -42,7 +42,7 @@ const Setup = () => {
     },
     {
       number: "03",
-      iconImage: "/src/assets/icons/warning-2-white.png",
+      iconImage: "/icons/warning-2-white.png",
       title: "Detects Falls",
       description: "Instantly recognizes falls or unusual activity.",
     },

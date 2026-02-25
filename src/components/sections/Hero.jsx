@@ -17,7 +17,7 @@ const Hero = () => {
             borderBottomRightRadius: "30px",
           }}
         >
-          <source src="/src/assets/videos/hero_video.mp4" type="video/mp4" />
+          <source src="/videos/hero_video.mp4" type="video/mp4" />
         </video>
         {/* Dark overlay for better text readability */}
         <div

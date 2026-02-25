@@ -19,13 +19,13 @@ const EndUser = () => {
         "Stay connected and informed about your loved one's safety, even from afar. Get peace of mind with real-time alerts.",
     },
     {
-      iconImage: "/src/assets/icons/hospital.png",
+      iconImage: "/icons/hospital.png",
       title: "Hospitals & Clinics",
       description:
         "Reduce patient fall incidents and staff burden with automated 24/7 monitoring in wards and recovery rooms.",
     },
     {
-      iconImage: "/src/assets/icons/bank.png",
+      iconImage: "/icons/bank.png",
       title: "LGUs & Community Health",
       description:
         "Empower local health programs with scalable monitoring solutions for senior citizens in barangay centers.",

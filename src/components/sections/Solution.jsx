@@ -76,7 +76,7 @@ const Solution = () => {
       description: "Instant push alerts to caregivers and family.",
     },
     {
-      iconImage: "/src/assets/icons/hospital.png", // PNG icon
+      iconImage: "/icons/hospital.png",
       title: "Hospital Integration",
       description: "Connect with emergency contacts and hospitals.",
     },

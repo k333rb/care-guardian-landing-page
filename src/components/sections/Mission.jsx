@@ -34,7 +34,7 @@ const Mission = () => {
       description: "Strengthening local health support systems.",
     },
     {
-      iconImage: "/src/assets/icons/hospital.png",
+      iconImage: "/icons/hospital.png",
       title: "Reducing Hospital Burden",
       description: "Automated monitoring frees healthcare staff.",
     },

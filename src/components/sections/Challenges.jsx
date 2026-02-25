@@ -45,11 +45,11 @@ const Challenges = () => {
       title: "Limited real-time monitoring available",
     },
     {
-      iconImage: "/src/assets/icons/warning-2.png",
+      iconImage: "/icons/warning-2.png",
       title: "Emergency response delays",
     },
     {
-      iconImage: "/src/assets/icons/Broken_heart.png",
+      iconImage: "/icons/Broken_heart.png",
       title: "Family anxiety and staff burden",
     },
   ];
