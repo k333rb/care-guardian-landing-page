@@ -45,7 +45,7 @@ const Footer = () => {
       <div style={styles.container}>
         <div style={styles.logo}>
           <img
-            src="/src/assets/images/careguardianlogo.png"
+            src="/images/careguardianlogo.png"
             alt="Care Guardian Logo"
             style={styles.logoImage}
           />
