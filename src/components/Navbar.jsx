@@ -19,7 +19,7 @@ const Navbar = () => {
             <img
               href="#hero"
               onClick={(e) => scrollToSection(e, "hero")}
-              src="/images/careguardianlogo.png"
+              src="/images/care_guardian.png"
               alt="Care Guardian Logo"
               className="h-10 w-auto"
             />
