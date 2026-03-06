@@ -151,7 +151,7 @@ const Setup = () => {
               key={index}
               style={{ textAlign: "center", marginBottom: "3rem" }}
             >
-              <div style={styles.iconCircle}>
+              <div style={{ ...styles.iconCircle, margin: "0 auto" }}>
                 {step.iconImage ? (
                   <img
                     src={step.iconImage}
